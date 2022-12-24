@@ -1,1 +1,3 @@
 third file
+
+nre line in this file
